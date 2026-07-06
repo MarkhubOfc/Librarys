@@ -1,8 +1,8 @@
 return {
-  ['arrow-up'] = 'rbxassetid://',
-  ['arrow-down'] = 'rbxassetid://',
-  ['arrow-left'] = 'rbxassetid://',
-  ['arrow-right'] = 'rbxassetid://',
+  ['arrow-up'] = 'rbxassetid://85687564493336',
+  ['arrow-down'] = 'rbxassetid://111568271862560',
+  ['arrow-left'] = 'rbxassetid://80058694057747',
+  ['arrow-right'] = 'rbxassetid://115433704028825',
   ['close'] = 'rbxassetid://120036678302335',
   ['x'] = 'rbxassetid://120036678302335'
 }
