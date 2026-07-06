@@ -1,5 +1,5 @@
 # Orion Library
-#### Credits for the link: https://github.com/jensonhirst/
+#### Credits for the doc: https://github.com/jensonhirst/
 This documentation is for the stable release of Orion Library.
 
 ## Booting the Library
