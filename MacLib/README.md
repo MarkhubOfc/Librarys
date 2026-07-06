@@ -2,7 +2,7 @@
 
 ## Loading `Maclib`
 ```lua
-local MacLib = loadstring(game:HttpGet('https://raw.githubusercontent.com/MarkhubOfc/Librarys/refs/heads/main/MacLib/Source.lua'))()
+local MacLib = loadstring(game:HttpGet('https://raw.githubusercontent.com/MarkhubOfc/Librarys/refs/heads/main/MacLib/Source.luau'))()
 ```
 
 ### Functions
