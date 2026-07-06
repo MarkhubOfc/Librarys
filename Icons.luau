@@ -1,4 +1,4 @@
 return {
-  ['close'] = 'rbxassetid://98727895988255',
-  ['x'] = 'rbxassetid://98727895988255'
+  ['close'] = 'rbxassetid://120036678302335',
+  ['x'] = 'rbxassetid://120036678302335'
 }
